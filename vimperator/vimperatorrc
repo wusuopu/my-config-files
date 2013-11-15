@@ -1,0 +1,14 @@
+"3.7 (created: 2013/04/03 18:20:07)
+
+source! /home/longchang/.vimperatorrc.local
+
+" vim: set ft=vimperator:
+
+map J <C-d>
+map K <C-u>
+ 
+map <C-`> :stop<CR>
+cmap <C-`> :stop<CR>
+ 
+cmap <S-Return> <End>.org<Home><C-Right><Right>www.<CR>
+cmap <C-Return> <End>.com<Home><C-Right><Right>www.<CR>
