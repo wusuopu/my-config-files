@@ -1,0 +1,8 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+// ~/.config/sublime-text-2/Packages/User/Preferences.sublime-settings
+{
+	"ignored_packages": [],
+	"vintage_start_in_command_mode": true,
+	"vintage_ctrl_keys": true
+}
