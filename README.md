@@ -10,3 +10,5 @@ ln -s ~/my-config-files/pip ~/.pip
 ln -s ~/my-config-files/vimperator/vimperator ~/.vimperator
 
 ln -s ~/my-config-files/vimperator/vimperatorrc ~/.vimperatorrc
+
+ln -s ~/my-config-files/npmrc ~/.npmrc
