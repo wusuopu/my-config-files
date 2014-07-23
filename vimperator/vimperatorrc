@@ -12,3 +12,6 @@ cmap <C-`> :stop<CR>
  
 cmap <S-Return> <End>.org<Home><C-Right><Right>www.<CR>
 cmap <C-Return> <End>.com<Home><C-Right><Right>www.<CR>
+
+set gui=none
+set gui=tabs
