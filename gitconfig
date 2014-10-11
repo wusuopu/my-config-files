@@ -1,0 +1,16 @@
+[user]
+	name = wusuopu
+	email = admin@longchangjin.cn
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	quotepath = False
+[push]
+	default = simple
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
