@@ -1,0 +1,2 @@
+--ignore=adjoining-classes,text-indent,import,ids
+--format=compact
