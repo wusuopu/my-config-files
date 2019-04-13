@@ -15,3 +15,5 @@ cmap <C-Return> <End>.com<Home><C-Right><Right>www.<CR>
 
 set gui=none
 set gui=tabs
+" set gui=tabs,navigation
+" set complete=shl
