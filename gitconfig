@@ -8,7 +8,7 @@
 [core]
 	quotepath = False
 	excludesfile = ~/.git_global_ignore
-	editor = /Users/lcj/bin/mvim -v
+	editor = vim
 [push]
 	default = simple
 [alias]
